@@ -1,7 +1,7 @@
 # Puzzle box control system
 __version__="v4 06-28-2018"
 __author__="E. Bridge and J. Huizinga"
-#Licensed in the public domain#
+#Licensed under the MIT License#
 
 # Constants
 ID = "1031"
